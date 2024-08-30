@@ -303,10 +303,11 @@ footer{
 .social-icons i:hover{
     color: white;
 }
+
 @media(max-width:968px){
-    section{
+        section{
         padding: 8em 15%;
-    }
+         }
         nav .btn{
             display: none;
         }
@@ -358,8 +359,8 @@ footer{
         #about ul{
             font-size: 1em;
         }
-    }
 }
+
 
 @media(max-width:768px){
     #home h1{
