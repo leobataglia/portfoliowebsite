@@ -325,7 +325,7 @@ footer{
             flex-direction: column;
             text-align: center;
             background: rgba(0, 0, 0, 0.9);
-            display: none;
+            display: none;  
         }
         .links a{
             margin: 2em 0;

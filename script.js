@@ -1,7 +1,7 @@
-const menu = document.querySelector("#menu")
-const nav = document.querySelector(".links")
+const menu = document.querySelector("#menu");
+const nav = document.querySelector(".links");
 
 menu.onclick = () => {
-    menu.classList.toggle("bx-x");
-    nav.classList.toggle("active");
+    menu.classList.toggle('bx-x');
+    nav.classList.toggle('active');
 }
