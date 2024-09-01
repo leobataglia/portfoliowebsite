@@ -304,6 +304,20 @@ footer{
     color: white;
 }
 
+a {
+    color: transparent;
+    background: linear-gradient(to right, #6cff52, #3ec5ff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    text-decoration: none;
+}
+a:visited {
+    color: transparent;
+    background: linear-gradient(to right, #6cff52, #3ec5ff);
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+
 @media(max-width:968px){
         section{
         padding: 8em 15%;
